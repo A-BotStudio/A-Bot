@@ -14,7 +14,7 @@
 ```
 
 ```bash
->Command BOT $
+>Command BOT /
 ```
 
 ## Install the dependencies:
@@ -63,9 +63,7 @@ you've just cloned!!
 |       ✅        |   Broadcast                      |
 |       ✅        |   Clear All Chats                |
 
-## Special Thanks to
-* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
+)
 
 
 ## Admin
