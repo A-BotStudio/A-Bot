@@ -76,6 +76,6 @@ you've just cloned!!
 
 
 ## Owner
-* [`WhatsApp`](wa.me/6285342147219)
+* [`WhatsApp`](http://wa.me/6285342147219)
 ### Donate
 * [`Saweria`](https://saweria.co/ABotOfficial)
